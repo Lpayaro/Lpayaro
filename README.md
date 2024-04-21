@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lpayaro
-- 👀 I’m interested in React JS/Native Python, Electronics, Computer Science
+- 👀 I’m interested in Node.js, Python, Electronics, Computer Science
 - 🌱 I’m currently learning design patterns
 - 💞️ I’m looking to collaborate on Electronics
 - 📫 How to reach me Lpayaro@gmail.com
